@@ -6,5 +6,6 @@ DAY 3 - 16 bit Ripple Carry Adder using 4 bit ripple carry adders.
 
 DAY 4 - 16 bit Carry Look Ahead Adder using 4bit carry Look Head Adders.
 
-DAY 5 - Half subtractor, Full subtractor and full subtractor using half subtractor
+DAY 5 - Half subtractor, Full subtractor and full subtractor using half subtractor.
 
+DAY 6 - Multiplexers ( 2to1, 4to1, 8to1, 16to1 ).
