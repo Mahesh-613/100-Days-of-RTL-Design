@@ -15,3 +15,6 @@ DAY 7 - SR FlipFlop.
 DAY 8 - D FlipFlop.
 
 DAY 9 - JK Flipflop.
+
+DAY 10 - T Flipflop.
+
