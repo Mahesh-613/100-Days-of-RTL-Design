@@ -18,3 +18,5 @@ DAY 9 - JK Flipflop.
 
 DAY 10 - T Flipflop.
 
+DAY 11 - Sequence Detector (11011) Overlapping Moore type
+
