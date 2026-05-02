@@ -20,3 +20,10 @@ DAY 10 - T Flipflop.
 
 DAY 11 - Sequence Detector (11011) Overlapping Moore type
 
+DAY 12 - Sequence Detector (11011) Overlapping Mealy type
+
+DAY 13 - Sequence Detector (11011) Non-Overlapping Moore type
+
+DAY 14 - Sequence Detector (11011) Non-Overlapping Mealy type
+
+DAY 15 - 16-bit Multiplier (By repeated Addition)
