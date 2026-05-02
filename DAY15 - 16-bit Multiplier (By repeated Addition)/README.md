@@ -43,18 +43,16 @@ The control path orchestrates the multiplication via five distinct states:
 
 ## Simulation & Output Waveforms
 
-> **Note:** Replace the placeholder links below with your actual simulation screenshots to demonstrate the correctness of the repeated addition sequence across clock cycles.
-
-### RTL Schematic
-*(Below is the structural diagram generated after elaboration)*
-
-![RTL Schematic](docs/images/rtl_schematic_placeholder.png)
-
 ### Behavioral Simulation Waveform
-*(Below is the timing diagram showing the FSM state transitions (s0 to s4) and the final accumulated product)*
+![Output Waveform](https://github.com/Mahesh-613/100-Days-of-RTL-Design/blob/main/DAY15%20-%2016-bit%20Multiplier%20(By%20repeated%20Addition)/Output/waveform.png)
 
-![Simulation Waveform](docs/images/waveform_placeholder.png)
+
+### Datapath RTL Schematic
+
+![Datapath RTL Schematic](https://github.com/Mahesh-613/100-Days-of-RTL-Design/blob/main/DAY15%20-%2016-bit%20Multiplier%20(By%20repeated%20Addition)/Output/data%20path%20RTL%20schematic.png)
+### control path RTL Schematic
+![Controller RTL Schematic](https://github.com/Mahesh-613/100-Days-of-RTL-Design/blob/main/DAY15%20-%2016-bit%20Multiplier%20(By%20repeated%20Addition)/Output/controller%20RTL%20schematic.png))
+
 
 ---
 **Author:** Mahesh Kumar Sahoo  
-**Reg No:** 2341019194
